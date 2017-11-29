@@ -151,6 +151,30 @@ nav li {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
+#udviklingxd {
+	position: absolute;
+	top: 269px;
+	left: 75%;
+	margin:auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#udviklingdw {
+	position: absolute;
+	top: 270px;
+	left: 51%;
+	margin:auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#udviklingflow3xd {
+	position: absolute;
+	top: 269px;
+	left: 64%;
+	margin:auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 #tilbage {
 	position: absolute;
 	top:405px;
@@ -200,6 +224,14 @@ nav li {
 	color: dimgrey;
 }
 
+.sweetbot {
+	position: absolute;
+	top: 190px;
+	left: 11%;
+	font-style: normal;
+	color: dimgrey;
+}
+
 .xd {
 	position: absolute;
 	top: 215px;
@@ -216,6 +248,14 @@ nav li {
 	font-size:20px;
 }
 
+.ww {
+	position: absolute;
+	top: 215px;
+	left:11%;
+	color:dimgrey;
+	font-size:20px;
+}
+
 .forklaring1 {
 	position:absolute;
 	top:266px;
@@ -225,6 +265,14 @@ nav li {
 }
 
 .forklaring2 {
+	position:absolute;
+	top:266px;
+	left:11%;
+	color:darkslategray;
+	margin-right:50%;
+}
+
+.forklaring3 {
 	position:absolute;
 	top:266px;
 	left:11%;
